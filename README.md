@@ -7,10 +7,10 @@ ultraISO :making iso file from bin file
 vmware : for testing our iso file
 
 # Procedure
-1.writing assembly code in .asm file as it's commented that what each line does
-2.run the .asm file with this command "nasm -f bin mybootloader.asm -o mybootloader.bin" that creat bin file from asm file
-3.open ultraISO and make .iso file from .bin file
-4.open vmware and make a new virtual machin with .iso file
-5.run it
+1. Writing assembly code in .asm file as it's commented that what each line does
+2. Run the .asm file with this command "nasm -f bin mybootloader.asm -o mybootloader.bin" that creat bin file from asm file
+3. Open ultraISO and make .iso file from .bin file
+4. Open vmware and make a new virtual machin with .iso file
+5. Run it
 
 #### Arman Riasi
